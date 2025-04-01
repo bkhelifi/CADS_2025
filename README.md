@@ -1,9 +1,10 @@
 # CADS_2025
 Cherenkov Astronomy Data School, Paris, 2025
 
-![CADS](Banner_CADS.png)
+![Banner_CADS2025](https://github.com/user-attachments/assets/9b3ad0e2-e08f-4657-8207-08225dbb3b90)
 
 ## Table of contents
+
 1. [Overview](#scope)
 2. [Introduction to high-energy astrophysics](#HEA)
 3. [Introduction to TeV gamma-ray detection](#HEO)
