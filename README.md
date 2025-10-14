@@ -54,7 +54,12 @@ Part 2: slides
 
 <a name="hands-on"></a>
 ## 7. Gammapy hands-on sessions
+Location: Salle CIAS, Meudon
 
+The hands-on session will be organised for two different groups:
+- the beginner users : [material page](Beginners_handson/README.md)
+- the advanced users : [material page](Advanced_handson/README.md)
+ 
 <a name="user"></a>
 ## 8. User session
 To Be Confirmed
