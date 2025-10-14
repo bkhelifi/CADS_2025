@@ -6,12 +6,14 @@ Cherenkov Astronomy Data School, Paris, 2025
 ## Table of contents
 
 1. [Overview](#scope)
-2. [Introduction to high-energy astrophysics](#HEA)
-3. [Introduction to TeV gamma-ray detection](#HEO)
-4. [Introduction to TeV data analysis](#tev-data)
-5. [Gammapy hands-on sessions](#hands-on)
-6. [User session](#user)
-7. [Legal notice](#notice)
+2. [Introduction to the radiative processes and associated detectors](#rad)
+3. [Galactic sources](#gal)
+4. [Extragalactic sources](#extragal)
+5. [Detection and reconstruction of extensive air showers](#reco)
+6. [From detection to high-level reconstruction - A statistical view on gamma-ray sources](#stats)
+7. [Gammapy hands-on sessions](#hands-on)
+8. [User session](#user)
+9. [Legal notice](#notice)
 
 <a name="scope"></a>
 ## 1. Overview
@@ -24,23 +26,41 @@ Paris, in Paris and Meudon.
 
 The indico page is https://indico.obspm.fr/event/2672/.
 
-<a name="HEA"></a>
-## 2. Introduction to high-energy astrophysics
+<a name="rad"></a>
+## 2. Introduction to the radiative processes and associated detectors
+By S. Gabici (APC) - Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau
+Slides
 
-<a name="HEO"></a>
-## 3. Detection and reconstruction of extensive air showers
+<a name="gal"></a>
+## 3. Galactic sources
+By S. Gabici (APC) - Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau
+Slides
 
-<a name="tev-data"></a>
-## 4. Introduction to TeV data analysis
+<a name="extragal"></a>
+## 4. ExtraGalactic sources
+By M. Cerutti - Salle du Conseil, Observatoire de Paris, 77 Av. Denfert Rochereau
+Slides
+
+<a name="reco"></a>
+## 5. Detection and reconstruction of extensive air showers
+By F. Bradascio - Salle du Conseil, Observatoire de Paris, 77 Av. Denfert Rochereau
+Slides
+
+<a name="stats"></a>
+## 6. From detection to high-level reconstruction - A statistical view on gamma-ray sources
+By J. Biteau - Salle du Conseil, Observatoire de Paris, 77 Av. Denfert Rochereau
+Part 1: slides
+Part 2: slides
 
 <a name="hands-on"></a>
-## 5. Gammapy hands-on sessions
+## 7. Gammapy hands-on sessions
 
 <a name="user"></a>
-## 6. User session
+## 8. User session
+To Be Confirmed
 
 <a name="notice"></a>
-## 7. Legal notice
+## 9. Legal notice
 All contributors of these pages has agreed with the term of the [BSD-3-Clause license](./LICENSE) of this repository.
 
 In addition, all material will be archived into the universal [Software Heritage](https://www.softwareheritage.org/) 
