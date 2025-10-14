@@ -3,6 +3,8 @@
 The used Gammapy version will be the **v2.0**. See the installation page
 [here](https://docs.gammapy.org/2.0/getting-started/index.html#recommended-setup).
 
+**Disclaimer** : still under construction!
+
 ## Table of contents
 1. [Introduction to Gammapy](#intro)
 2. [Data structure](#data)
