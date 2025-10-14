@@ -1,7 +1,7 @@
 # Hands-on sessions for the beginners
 
-The used Gammapy version will be the **v1.2**. See the installation page
-[here](https://docs.gammapy.org/1.2/getting-started/install.html).
+The used Gammapy version will be the **v2.0**. See the installation page
+[here](https://docs.gammapy.org/2.0/getting-started/index.html#recommended-setup).
 
 ## Table of contents
 1. [Introduction to Gammapy](#intro)
@@ -17,7 +17,7 @@ The used Gammapy version will be the **v1.2**. See the installation page
 ## Session of Wednesday, 9h30/10h45
 **Introduction to the Gammapy library** and the data analysis workflow.
 
-Made by Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Made by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Link to the presentation](<1. Introduction to Gammapy/>).
 
@@ -25,7 +25,7 @@ Made by Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
 ## Session of Wednesday, 11h15/12h30
 **Data structure and IRFs** : datastore, observation handling, IRFs
 
-Made by Regis Terrier (APC, Paris), Maxime Regeard (APC, Paris) and Claudio Galelli (LUTh, Meudon). Location : room CIAS, Observatoire de Meudon
+Made by Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebooks](<2. General API/>).
 
@@ -34,7 +34,7 @@ Made by Regis Terrier (APC, Paris), Maxime Regeard (APC, Paris) and Claudio Gale
 **Simple 3D source analysis** : data reduction with FoV bkg, exclusion mask, measuring source significance,
 exploring fit results, morphology and spectral parameters.
 
-Made by Kirsty Feijen (APC, Paris) and Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Made by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebook](<3. 3D analysis/3. 3D_analysis.ipynb>).
 
@@ -43,7 +43,7 @@ Made by Kirsty Feijen (APC, Paris) and Maxime Regeard (APC, Paris). Location : r
 **Spectral analysis** : data reduction with bkg measurement in OFF regions, simple spectral
 modeling/fitting, confidence calculation, flux points extraction.
 
-Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Made by Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebook](<4. Spectral analysis/1D_spectral.ipynb>).
 
@@ -51,7 +51,7 @@ Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : r
 ## Session of Thursday, 9h30/10h45 (common for the advanced group)
 **Timing analysis** : creating a light curve for a time variable source
 
-Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
+Made by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebooks](<5. Timing analysis>).
 
@@ -59,7 +59,7 @@ Made by Claudio Galelli (LUTh, Meudon) and Jean-Philippe Lenain (LPNHE, Paris). 
 ## Session of Thursday, 11h15/12h30
 **Simulations** : faking datasets, full event wise simulations
 
-Made by Kirsty Feijen (APC, Paris) and Jean-Philippe Lenain (LPNHE, Paris). Location : room CIAS, Observatoire de Meudon
+Made by Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebooks](<6. Simulations>).
 
@@ -68,7 +68,7 @@ Made by Kirsty Feijen (APC, Paris) and Jean-Philippe Lenain (LPNHE, Paris). Loca
 **Multi-instrument joint analysis** : joint PKS2155-304 analysis, fitting with a physically motivated model
 (e.g. IC)
 
-Made by Maxime Regeard (APC, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Made by Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 Link to the [notebook](<7. Joint Fit>).
 
@@ -76,6 +76,6 @@ Link to the [notebook](<7. Joint Fit>).
 ## Session of Thursday, 16h15/18h
 **Systematic uncertainties** : user defined models, priors and nuisance parameters.
 
-Made by Jean-Philippe Lenain (LPNHE, Paris) and Kirsty Feijen (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Made by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebook](<8. Systematic uncertainties/8. Systematic uncertainties - exercise.ipynb>).
