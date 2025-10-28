@@ -27,7 +27,7 @@ Prepared by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de M
 ## Session of Wednesday, 11h15/12h30
 **Data structure and IRFs** : datastore, observation handling, IRFs
 
-Prepared by Tomas Bylund (LUX/APC/OBSPM, Paris). Location : room CIAS, Observatoire de Meudon
+Prepared by Tomas Bylund and Maxime Regeard (LUX/APC/OBSPM, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebooks](<2. General API/>).
 
@@ -45,7 +45,7 @@ Prepared by Tomas Bylund (LUX/APC/OBSPM, Paris). Location : room CIAS, Observato
 **Spectral analysis** : data reduction with bkg measurement in OFF regions, simple spectral
 modeling/fitting, confidence calculation, flux points extraction.
 
-Prepared by Tomas Bylund (LUX/APC/OBSPM, Paris). Location : room CIAS, Observatoire de Meudon
+Prepared by Maxime Regeard (LUX/APC/OBSPM, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebook](<4. Spectral analysis/1D_spectral.ipynb>).
 
@@ -70,7 +70,7 @@ Prepared by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de M
 **Multi-instrument joint analysis** : joint PKS2155-304 analysis, fitting with a physically motivated model
 (e.g. IC)
 
-Prepared by Daniel Morcuende (CTAO, Zeuthen). Location : room CIAS, Observatoire de Meudon
+Prepared by Daniel Morcuende and Maxime Regeard (CTAO, Zeuthen). Location : room CIAS, Observatoire de Meudon
 
 Link to the [notebook](<7. Joint Fit>).
 
