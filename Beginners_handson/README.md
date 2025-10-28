@@ -19,7 +19,7 @@ The used Gammapy version will be the **v2.0**. See the installation page
 ## Session of Wednesday, 9h30/10h45
 **Introduction to the Gammapy library** and the data analysis workflow.
 
-Made by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Prepared by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Link to the presentation](<1. Introduction to Gammapy/>).
 
@@ -27,7 +27,7 @@ Made by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudo
 ## Session of Wednesday, 11h15/12h30
 **Data structure and IRFs** : datastore, observation handling, IRFs
 
-Made by Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Prepared by Tomas Bylund (LUX/APC/OBSPM, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebooks](<2. General API/>).
 
@@ -36,7 +36,7 @@ Made by Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudo
 **Simple 3D source analysis** : data reduction with FoV bkg, exclusion mask, measuring source significance,
 exploring fit results, morphology and spectral parameters.
 
-Made by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Prepared by Tomas Bylund (LUX/APC/OBSPM, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebook](<3. 3D analysis/3. 3D_analysis.ipynb>).
 
@@ -45,7 +45,7 @@ Made by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudo
 **Spectral analysis** : data reduction with bkg measurement in OFF regions, simple spectral
 modeling/fitting, confidence calculation, flux points extraction.
 
-Made by Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Prepared by Tomas Bylund (LUX/APC/OBSPM, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebook](<4. Spectral analysis/1D_spectral.ipynb>).
 
@@ -53,7 +53,7 @@ Made by Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudo
 ## Session of Thursday, 9h30/10h45 (common for the advanced group)
 **Timing analysis** : creating a light curve for a time variable source
 
-Made by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Prepared by Daniel Morcuende (CTAO, Zeuthen). Location : room CIAS, Observatoire de Meudon
 
 [Notebooks](<5. Timing analysis>).
 
@@ -61,7 +61,7 @@ Made by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudo
 ## Session of Thursday, 11h15/12h30
 **Simulations** : faking datasets, full event wise simulations
 
-Made by Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Prepared by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebooks](<6. Simulations>).
 
@@ -70,7 +70,7 @@ Made by Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudo
 **Multi-instrument joint analysis** : joint PKS2155-304 analysis, fitting with a physically motivated model
 (e.g. IC)
 
-Made by Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Prepared by Daniel Morcuende (CTAO, Zeuthen). Location : room CIAS, Observatoire de Meudon
 
 Link to the [notebook](<7. Joint Fit>).
 
@@ -78,6 +78,6 @@ Link to the [notebook](<7. Joint Fit>).
 ## Session of Thursday, 16h15/18h
 **Systematic uncertainties** : user defined models, priors and nuisance parameters.
 
-Made by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
+Prepared by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
 [Notebook](<8. Systematic uncertainties/8. Systematic uncertainties - exercise.ipynb>).
