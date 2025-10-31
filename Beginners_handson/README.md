@@ -50,7 +50,7 @@ Prepared by Maxime Regeard (LUX/APC/OBSPM, Paris). Location : room CIAS, Observa
 [Notebook](<4. Spectral analysis/1D_spectral.ipynb>).
 
 <a name="time"></a>
-## Session of Thursday, 9h30/10h45 (common for the advanced group)
+## Session of Thursday, 9h30/10h45
 **Timing analysis** : creating a light curve for a time variable source
 
 Prepared by Daniel Morcuende (CTAO, Zeuthen). Location : room CIAS, Observatoire de Meudon
