@@ -1,0 +1,21 @@
+datasets:
+-   name: P8R3_CLEAN_V3_PSF0_v1
+    type: MapDataset
+    filename: P8R3_CLEAN_V3_PSF0_v1.fits.gz
+-   name: P8R3_CLEAN_V3_PSF1_v1
+    type: MapDataset
+    filename: P8R3_CLEAN_V3_PSF1_v1.fits.gz
+-   name: P8R3_CLEAN_V3_PSF2_v1
+    type: MapDataset
+    filename: P8R3_CLEAN_V3_PSF2_v1.fits.gz
+-   name: P8R3_CLEAN_V3_PSF3_v1
+    type: MapDataset
+    filename: P8R3_CLEAN_V3_PSF3_v1.fits.gz
+-   name: hess_rxj_stacked
+    type: MapDataset
+    filename: hess_rxj_stacked.fits.gz
+metadata:
+    creator: Gammapy 2.0
+    date: '2025-11-03T12:58:23.833343'
+    origin: null
+checksum: 015d0c46cfe4a960d7811136353598b3

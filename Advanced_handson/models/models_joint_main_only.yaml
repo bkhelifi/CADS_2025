@@ -640,9 +640,9 @@ components:
         -   name: tilt
             value: 0.0
         -   name: norm
-            value: 1.2679150941060937
+            value: 1.0375481072471564
+            error: 0.026855187194861522
             min: 0.0
-            frozen: true
         -   name: reference
             value: 1.0
             unit: TeV
@@ -780,9 +780,9 @@ components:
             -   name: tilt
                 value: 0.0
             -   name: norm
-                value: 27.81546779055259
+                value: 29.902715228128645
+                error: 1.9853346818096644
                 min: 0.0
-                frozen: true
             -   name: reference
                 value: 1.0
                 unit: TeV
@@ -796,21 +796,21 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 1.9744108552526278e-09
+            value: 2.3421673461575963e-09
             unit: TeV-1 s-1 cm-2
-            error: 8.285822954959047e-11
+            error: 9.118757827474885e-11
             min: 0.0
         -   name: reference
             value: 100.0
             unit: GeV
         -   name: alpha
-            value: 1.8110171981863123
-            error: 0.021635644205663912
+            value: 1.8464994806003743
+            error: 0.01920439036699206
             min: 0.0
             max: 5.0
         -   name: beta
-            value: 0.06726205788431641
-            error: 0.008105721186732286
+            value: 0.06237417744947973
+            error: 0.007388626574669553
             min: 0.0
             max: 1.0
     spatial:
@@ -818,26 +818,26 @@ components:
         frame: galactic
         parameters:
         -   name: lon_0
-            value: 347.287401346398
+            value: 347.26635606761755
             unit: deg
-            error: 0.01217105078343823
+            error: 0.01355373675217143
             min: 346.65686518508926
             max: 347.88670624286783
         -   name: lat_0
-            value: -0.45794741427011076
+            value: -0.42186201907592463
             unit: deg
-            error: 0.013240814882904803
+            error: 0.014259632835340751
             min: -1.079745126815264
             max: 0.15009593096330737
         -   name: r_0
-            value: 0.5686861192878029
+            value: 0.581811532820869
             unit: deg
-            error: 0.010366498059595448
+            error: 0.011211906916012872
             min: 0.29116871569511665
             max: 1.2298410577785714
         -   name: eta
-            value: 0.13806909825804917
-            error: 0.03595117238243532
+            value: 0.31961875327831657
+            error: 0.038227177333747836
             min: 0.1
         -   name: e
             value: 0.0
@@ -850,21 +850,21 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 1.0028483498899252e-09
+            value: 1.0997209452426325e-09
             unit: TeV-1 s-1 cm-2
-            error: 8.781671050521183e-11
+            error: 6.458082990478146e-11
             min: 0.0
         -   name: reference
             value: 100.0
             unit: GeV
         -   name: alpha
-            value: 1.5910892891385442
-            error: 0.11169821198538955
+            value: 1.7704773513378034
+            error: 0.07595534998936494
             min: 0.0
             max: 5.0
         -   name: beta
-            value: 0.17190743762550695
-            error: 0.04449551276570041
+            value: 0.1210586672213344
+            error: 0.02898827586272462
             min: 0.0
             max: 1.0
     spatial:
@@ -872,26 +872,26 @@ components:
         frame: galactic
         parameters:
         -   name: lon_0
-            value: 345.6835887400984
+            value: 345.67700160953916
             unit: deg
-            error: 0.03824794146269703
+            error: 0.04334463601702813
             min: 345.48161244072793
             max: 345.79032210650865
         -   name: lat_0
-            value: -0.5102570799902003
+            value: -0.4637891029945729
             unit: deg
-            error: 0.04296799587288589
+            error: 0.04449350649874587
             min: -0.5818126959613483
             max: -0.2731030301806695
         -   name: r_0
-            value: 0.30870963676841134
+            value: 0.3087096633457443
             unit: deg
-            error: 2.510403966066396e-05
+            error: 6.359909369750564e-06
             min: 0.07276891939169615
             max: 0.3087096657806789
         -   name: eta
-            value: 0.9999999988821089
-            error: 6.754208350835907e-06
+            value: 0.9999999981182136
+            error: 8.045175766327801e-06
             min: 0.1
         -   name: e
             value: 0.0
@@ -904,21 +904,21 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 2.1197698601409734e-10
+            value: 2.7794767372094353e-10
             unit: TeV-1 s-1 cm-2
-            error: 4.481501079658297e-11
+            error: 3.96964273754919e-11
             min: 0.0
         -   name: reference
             value: 100.0
             unit: GeV
         -   name: alpha
-            value: 1.7349648565416156
-            error: 0.12756270352645568
+            value: 1.9659317125966602
+            error: 0.08146977704465812
             min: 0.0
             max: 5.0
         -   name: beta
-            value: 0.04012386191346911
-            error: 0.0442345690087426
+            value: 0.002645127603992394
+            error: 0.0028920663267376213
             min: 0.0
             max: 1.0
     spatial:
@@ -926,26 +926,26 @@ components:
         frame: galactic
         parameters:
         -   name: lon_0
-            value: 348.87980769794194
+            value: 348.9146577377101
             unit: deg
-            error: 0.05644066342205994
+            error: 0.03301532798968875
             min: 348.7934131506624
             max: 349.0277457061762
         -   name: lat_0
-            value: -0.4413554909254724
+            value: -0.41348898609143925
             unit: deg
-            error: 0.04753821116922045
+            error: 0.044703606360796594
             min: -0.5256174048726829
             max: -0.291284849358895
         -   name: r_0
-            value: 0.23433102752924242
+            value: 0.23433255441639114
             unit: deg
-            error: 0.000418618842838768
+            error: 8.332896554954435e-06
             min: 0.041569937055039995
             max: 0.234332555513788
         -   name: eta
-            value: 0.9999999836266652
-            error: 8.826621272382466e-05
+            value: 0.9999999922858906
+            error: 4.19071475741147e-05
             min: 0.1
         -   name: e
             value: 0.0
@@ -958,21 +958,21 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 9.602531166365867e-11
+            value: 9.731183873622585e-11
             unit: TeV-1 s-1 cm-2
-            error: 2.419426943067993e-11
+            error: 2.8312024659210835e-11
             min: 0.0
         -   name: reference
             value: 100.0
             unit: GeV
         -   name: alpha
-            value: 1.9363876995809668
-            error: 0.10759242258983073
+            value: 2.1352216590223247
+            error: 0.11549344134136091
             min: 0.0
             max: 5.0
         -   name: beta
-            value: 0.05190179151980181
-            error: 0.04205821237941448
+            value: 0.0005604757911219702
+            error: 0.0003758038252473883
             min: 0.0
             max: 1.0
     spatial:
@@ -980,26 +980,26 @@ components:
         frame: galactic
         parameters:
         -   name: lon_0
-            value: 346.06153000973177
+            value: 346.02184419154895
             unit: deg
-            error: 0.030029710299377097
+            error: 0.029705440242105953
             min: 345.7943371591408
             max: 346.2206289913954
         -   name: lat_0
-            value: -0.09371387175121902
+            value: -0.028590064793512504
             unit: deg
-            error: 0.030918804603817164
+            error: 0.030079036913425884
             min: -0.29335426685260757
             max: 0.1329375654020211
         -   name: r_0
-            value: 0.17339755137291202
+            value: 0.06510541712473729
             unit: deg
-            error: 0.02460773072107764
+            error: 0.02264573002229599
             min: 0.051890603873587196
             max: 0.42629183225462863
         -   name: eta
-            value: 0.10000028900421915
-            error: 0.00032489930232595677
+            value: 0.9876026062837582
+            error: 0.029061651701273505
             min: 0.1
         -   name: e
             value: 0.0
@@ -1012,21 +1012,21 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 1.4872672330013017e-10
+            value: 1.6952419896163397e-10
             unit: TeV-1 s-1 cm-2
-            error: 2.5471710962593057e-11
+            error: 4.048453064540777e-11
             min: 0.0
         -   name: reference
             value: 100.0
             unit: GeV
         -   name: alpha
-            value: 2.5774492286497495
-            error: 0.07731463840309058
+            value: 2.574698538355352
+            error: 0.10813853304734107
             min: 0.0
             max: 5.0
         -   name: beta
-            value: 0.04113191157862125
-            error: 0.02876972634810478
+            value: 0.04216934555481549
+            error: 0.022246959723027978
             min: 0.0
             max: 1.0
     spatial:
@@ -1034,26 +1034,26 @@ components:
         frame: galactic
         parameters:
         -   name: lon_0
-            value: 348.4408401928063
+            value: 348.4383624983932
             unit: deg
-            error: 0.012570826493502385
+            error: 0.011726964056516569
             min: 348.20845197170536
             max: 348.6922640536384
         -   name: lat_0
-            value: 0.1190701821368193
+            value: 0.12077023227179491
             unit: deg
-            error: 0.011396830161637625
+            error: 0.010933013287861936
             min: -0.1284317692249465
             max: 0.3553803127080666
         -   name: r_0
-            value: 0.09548223491972169
+            value: 0.09548540465680863
             unit: deg
-            error: 0.0002659703227506542
+            error: 0.0004756997712028193
             min: 0.09548109697715498
             max: 0.4838120819330131
         -   name: eta
-            value: 0.501454070598644
-            error: 0.10081485002895148
+            value: 0.5781832264860357
+            error: 0.09437313572555987
             min: 0.1
         -   name: e
             value: 0.0
@@ -1066,21 +1066,21 @@ components:
         type: LogParabolaSpectralModel
         parameters:
         -   name: amplitude
-            value: 2.2141559567638018e-10
+            value: 2.3297092558505503e-10
             unit: TeV-1 s-1 cm-2
-            error: 4.1568237179726354e-11
+            error: 4.393026149611606e-11
             min: 0.0
         -   name: reference
             value: 100.0
             unit: GeV
         -   name: alpha
-            value: 2.22800666960198
-            error: 0.11957996809819607
+            value: 2.255475710683186
+            error: 0.09066954341229518
             min: 0.0
             max: 5.0
         -   name: beta
-            value: 0.15452931068432202
-            error: 0.07004789536653662
+            value: 0.13389103974323774
+            error: 0.061750750105037194
             min: 0.0
             max: 1.0
     spatial:
@@ -1088,26 +1088,26 @@ components:
         frame: galactic
         parameters:
         -   name: lon_0
-            value: 348.6580952395302
+            value: 348.6591451290235
             unit: deg
-            error: 0.012296267604815727
+            error: 0.011764613699608323
             min: 348.44641382172955
             max: 348.83280257168695
         -   name: lat_0
-            value: 0.3591036731580899
+            value: 0.3588694234397976
             unit: deg
-            error: 0.012606334349265069
+            error: 0.011966909502519139
             min: 0.17596884142655758
             max: 0.5623575913840101
         -   name: r_0
-            value: 0.07714965784622317
+            value: 0.0771529264857785
             unit: deg
-            error: 8.298905452443228e-05
+            error: 0.00043630796100883076
             min: 0.07714943988725144
             max: 0.3863887499574525
         -   name: eta
-            value: 0.5156958361962798
-            error: 0.11888869209244847
+            value: 0.5874655743907087
+            error: 0.12266027631595276
             min: 0.1
         -   name: e
             value: 0.0
@@ -1235,9 +1235,9 @@ components:
             -   name: tilt
                 value: 0.0
             -   name: norm
-                value: 31.825660389120955
+                value: 34.765949780950976
+                error: 2.2900741688160045
                 min: 0.0
-                frozen: true
             -   name: reference
                 value: 1.0
                 unit: TeV
@@ -1366,9 +1366,9 @@ components:
             -   name: tilt
                 value: 0.0
             -   name: norm
-                value: 26.91541384206736
+                value: 29.606100176765807
+                error: 2.318713886283804
                 min: 0.0
-                frozen: true
             -   name: reference
                 value: 1.0
                 unit: TeV
@@ -1497,9 +1497,9 @@ components:
             -   name: tilt
                 value: 0.0
             -   name: norm
-                value: 32.35385252702336
+                value: 34.00860190471599
+                error: 2.453770092275362
                 min: 0.0
-                frozen: true
             -   name: reference
                 value: 1.0
                 unit: TeV
@@ -1507,8 +1507,75 @@ components:
     spatial:
         type: ConstantSpatialModel
         parameters: []
+-   type: FoVBackgroundModel
+    datasets_names:
+    - hess_rxj_stacked
+    spectral:
+        type: PiecewiseNormSpectralModel
+        parameters:
+        -   name: norm_0
+            value: 1.0
+            frozen: true
+        -   name: norm_1
+            value: 1.0
+            frozen: true
+        -   name: norm_2
+            value: 1.0
+            frozen: true
+        -   name: norm_3
+            value: 1.0
+            frozen: true
+        -   name: norm_4
+            value: 1.0
+            frozen: true
+        -   name: norm_5
+            value: 1.0
+            frozen: true
+        -   name: norm_6
+            value: 1.0
+            frozen: true
+        -   name: norm_7
+            value: 1.0
+            frozen: true
+        -   name: norm_8
+            value: 1.0
+            frozen: true
+        -   name: norm_9
+            value: 1.0
+            frozen: true
+        -   name: norm_10
+            value: 1.0
+            frozen: true
+        -   name: norm_11
+            value: 1.0
+            frozen: true
+        -   name: norm_12
+            value: 1.0
+            frozen: true
+        -   name: norm_13
+            value: 1.0
+            frozen: true
+        energy:
+            data:
+            - 0.5
+            - 0.6294627058970836
+            - 0.7924465962305568
+            - 0.9976311574844399
+            - 1.25594321575479
+            - 1.5811388300841898
+            - 1.9905358527674866
+            - 2.505936168136362
+            - 3.1547867224009662
+            - 3.9716411736214083
+            - 4.999999999999999
+            - 6.294627058970836
+            - 7.924465962305571
+            - 49.99999999999999
+            unit: TeV
+        interp: log
 covariance: models_joint_main_only_covariance.dat
 metadata:
     creator: Gammapy 2.0
-    date: '2025-11-02T22:35:38.029187'
+    date: '2025-11-03T12:58:26.877051'
     origin: null
+checksum: 3bf11b087a089568d73a2afede6ce2dd
