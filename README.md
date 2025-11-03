@@ -26,31 +26,33 @@ Paris, in Paris and Meudon.
 
 The indico page is https://indico.obspm.fr/event/2672/.
 
+<a name="stats"></a>
+## 2. From detection to high-level reconstruction - A statistical view on gamma-ray sources
+By J. Biteau - Salle du Conseil, Observatoire de Paris, 77 Av. Denfert Rochereau
+- [slides](Lectures/CADS_Statistics_2025.pdf)
+- [material page](Lectures/NPAC_Statistics_25_26.pdf)
+
+<a name="extragal"></a>
+## 3. ExtraGalactic sources
+By M. Cerutti - Salle du Conseil, Observatoire de Paris, 77 Av. Denfert Rochereau
+Slides
+
+
+<a name="reco"></a>
+## 4. Detection and reconstruction of extensive air showers
+By F. Bradascio - Salle du Conseil, Observatoire de Paris, 77 Av. Denfert Rochereau
+Slides
+
+
 <a name="rad"></a>
-## 2. Introduction to the radiative processes and associated detectors
+## 5. Introduction to the radiative processes and associated detectors
 By S. Gabici (APC) - Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau
 Slides
 
 <a name="gal"></a>
-## 3. Galactic sources
+## 6. Galactic sources
 By S. Gabici (APC) - Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau
 Slides
-
-<a name="extragal"></a>
-## 4. ExtraGalactic sources
-By M. Cerutti - Salle du Conseil, Observatoire de Paris, 77 Av. Denfert Rochereau
-Slides
-
-<a name="reco"></a>
-## 5. Detection and reconstruction of extensive air showers
-By F. Bradascio - Salle du Conseil, Observatoire de Paris, 77 Av. Denfert Rochereau
-Slides
-
-<a name="stats"></a>
-## 6. From detection to high-level reconstruction - A statistical view on gamma-ray sources
-By J. Biteau - Salle du Conseil, Observatoire de Paris, 77 Av. Denfert Rochereau
-Part 1: slides
-Part 2: slides
 
 <a name="hands-on"></a>
 ## 7. Gammapy hands-on sessions
