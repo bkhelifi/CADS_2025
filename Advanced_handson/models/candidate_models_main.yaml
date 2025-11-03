@@ -1,0 +1,1190 @@
+components:
+-   name: 4FGL J1700.1-4013c
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 9.351460795710507e-20
+            unit: MeV-1 s-1 cm-2
+            error: 3.9714434354448027e-16
+            min: 0.0
+        -   name: reference
+            value: 1900.1495361328125
+            unit: MeV
+        -   name: alpha
+            value: 2.739989757537842
+            frozen: true
+        -   name: beta
+            value: 0.35324910283088684
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 255.02960205078128
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -40.222900390625
+            unit: deg
+            frozen: true
+-   name: 4FGL J1704.8-4030
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 4.267931863887423e-13
+            unit: MeV-1 s-1 cm-2
+            error: 1.1879081961869874e-13
+            min: 0.0
+        -   name: reference
+            value: 2701.404541015625
+            unit: MeV
+        -   name: alpha
+            value: 2.3177130222320557
+            frozen: true
+        -   name: beta
+            value: 0.27022600173950195
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 256.2047119140625
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -40.502899169921875
+            unit: deg
+            frozen: true
+-   name: 4FGL J1705.2-3850
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 1.4449840656467544e-19
+            unit: MeV-1 s-1 cm-2
+            error: 2.8508405074086395e-16
+            min: 0.0
+        -   name: reference
+            value: 2171.904052734375
+            unit: MeV
+        -   name: alpha
+            value: 2.1435904502868652
+            frozen: true
+        -   name: beta
+            value: 0.3548963963985443
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 256.3247985839844
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -38.83409881591797
+            unit: deg
+            frozen: true
+-   name: 4FGL J1706.2-4113c
+    type: SkyModel
+    spectral:
+        type: PowerLawSpectralModel
+        parameters:
+        -   name: index
+            value: 2.3010215759277344
+            frozen: true
+        -   name: amplitude
+            value: 2.4070786819864952e-14
+            unit: MeV-1 s-1 cm-2
+            error: 1.2617142630946434e-14
+            min: 0.0
+        -   name: reference
+            value: 4936.4814453125
+            unit: MeV
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 256.56439208984375
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -41.229400634765625
+            unit: deg
+            frozen: true
+-   name: 4FGL J1706.5-4023c
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 2.482179286775981e-13
+            unit: MeV-1 s-1 cm-2
+            error: 1.427078840439082e-13
+            min: 0.0
+        -   name: reference
+            value: 2649.357666015625
+            unit: MeV
+        -   name: alpha
+            value: 2.6839826107025146
+            frozen: true
+        -   name: beta
+            value: 0.15580123662948608
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 256.6435852050781
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -40.384700775146484
+            unit: deg
+            frozen: true
+-   name: 4FGL J1708.3-4127c
+    type: SkyModel
+    spectral:
+        type: PowerLawSpectralModel
+        parameters:
+        -   name: index
+            value: 2.0069515705108643
+            frozen: true
+        -   name: amplitude
+            value: 3.591880332967376e-15
+            unit: MeV-1 s-1 cm-2
+            error: 1.411210987139996e-15
+            min: 0.0
+        -   name: reference
+            value: 9819.5322265625
+            unit: MeV
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 257.0909118652344
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -41.46049880981445
+            unit: deg
+            frozen: true
+-   name: 4FGL J1710.3-3943
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 1.9808031793829647e-12
+            unit: MeV-1 s-1 cm-2
+            error: 1.2028955896934703e-12
+            min: 0.0
+        -   name: reference
+            value: 1575.8935546875
+            unit: MeV
+        -   name: alpha
+            value: 2.6100924015045166
+            frozen: true
+        -   name: beta
+            value: 0.2655567526817322
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 257.5945129394531
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -39.7223014831543
+            unit: deg
+            frozen: true
+-   name: 4FGL J1711.9-4056c
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 2.8131117863457507e-15
+            unit: MeV-1 s-1 cm-2
+            error: 8.621307684327771e-16
+            min: 0.0
+        -   name: reference
+            value: 13844.94140625
+            unit: MeV
+        -   name: alpha
+            value: 1.6679788827896118
+            frozen: true
+        -   name: beta
+            value: 0.4566977918148041
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 257.9800109863281
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -40.938499450683594
+            unit: deg
+            frozen: true
+-   name: 4FGL J1712.9-4105
+    type: SkyModel
+    spectral:
+        type: PowerLawSpectralModel
+        parameters:
+        -   name: index
+            value: 1.7772023677825928
+            frozen: true
+        -   name: amplitude
+            value: 7.802636910041552e-16
+            unit: MeV-1 s-1 cm-2
+            error: 2.478930788970224e-16
+            min: 0.0
+        -   name: reference
+            value: 21178.046875
+            unit: MeV
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 258.2366027832031
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -41.095401763916016
+            unit: deg
+            frozen: true
+-   name: 4FGL J1714.8-3849
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 2.1695085906291786e-13
+            unit: MeV-1 s-1 cm-2
+            error: 7.039927461602505e-14
+            min: 0.0
+        -   name: reference
+            value: 3390.619140625
+            unit: MeV
+        -   name: alpha
+            value: 2.606431484222412
+            frozen: true
+        -   name: beta
+            value: 0.2268989086151123
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 258.7242126464844
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -38.819000244140625
+            unit: deg
+            frozen: true
+-   name: 4FGL J1715.3-3832
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 3.3705662986180797e-13
+            unit: MeV-1 s-1 cm-2
+            error: 1.6017107823586326e-13
+            min: 0.0
+        -   name: reference
+            value: 3127.25439453125
+            unit: MeV
+        -   name: alpha
+            value: 2.91451096534729
+            frozen: true
+        -   name: beta
+            value: 0.26806315779685974
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 258.8479919433594
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -38.544898986816406
+            unit: deg
+            frozen: true
+-   name: 4FGL J1715.4-4025
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 6.218155068593827e-14
+            unit: MeV-1 s-1 cm-2
+            error: 1.7593307277055597e-14
+            min: 0.0
+        -   name: reference
+            value: 3847.50732421875
+            unit: MeV
+        -   name: alpha
+            value: 2.0806400775909424
+            frozen: true
+        -   name: beta
+            value: 0.14524230360984802
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 258.8689880371094
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -40.42940139770508
+            unit: deg
+            frozen: true
+-   name: 4FGL J1716.9-4152
+    type: SkyModel
+    spectral:
+        type: PowerLawSpectralModel
+        parameters:
+        -   name: index
+            value: 2.3350014686584473
+            frozen: true
+        -   name: amplitude
+            value: 4.6814459239423816e-15
+            unit: MeV-1 s-1 cm-2
+            error: 1.475259172668013e-14
+            min: 0.0
+        -   name: reference
+            value: 3094.868896484375
+            unit: MeV
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 259.2449035644531
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -41.874698638916016
+            unit: deg
+            frozen: true
+-   name: 4FGL J1717.5-4022
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 1.6043948082960342e-14
+            unit: MeV-1 s-1 cm-2
+            error: 3.3785336189889896e-14
+            min: 0.0
+        -   name: reference
+            value: 2986.6015625
+            unit: MeV
+        -   name: alpha
+            value: 1.9637631177902222
+            frozen: true
+        -   name: beta
+            value: 0.5145632028579712
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 259.394287109375
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -40.37879943847656
+            unit: deg
+            frozen: true
+-   name: 4FGL J1717.8-3906
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 3.751866623017677e-20
+            unit: MeV-1 s-1 cm-2
+            error: 5.801162956409095e-17
+            min: 0.0
+        -   name: reference
+            value: 2814.0654296875
+            unit: MeV
+        -   name: alpha
+            value: 2.5457816123962402
+            frozen: true
+        -   name: beta
+            value: 0.27940160036087036
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 259.46990966796875
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -39.11069869995117
+            unit: deg
+            frozen: true
+-   name: 4FGL J1718.5-4122
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 2.979399353531065e-14
+            unit: MeV-1 s-1 cm-2
+            error: 7.924681700896072e-14
+            min: 0.0
+        -   name: reference
+            value: 2253.748291015625
+            unit: MeV
+        -   name: alpha
+            value: 2.392148494720459
+            frozen: true
+        -   name: beta
+            value: 0.20477047562599182
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 259.64080810546875
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -41.37919998168945
+            unit: deg
+            frozen: true
+-   name: 4FGL J1719.0-4038
+    type: SkyModel
+    spectral:
+        type: PowerLawSpectralModel
+        parameters:
+        -   name: index
+            value: 2.170267105102539
+            frozen: true
+        -   name: amplitude
+            value: 5.374108706843469e-15
+            unit: MeV-1 s-1 cm-2
+            error: 4.216033163714914e-15
+            min: 0.0
+        -   name: reference
+            value: 5005.02490234375
+            unit: MeV
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 259.75628662109375
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -40.647300720214844
+            unit: deg
+            frozen: true
+-   name: 4FGL J1719.5-3858c
+    type: SkyModel
+    spectral:
+        type: PowerLawSpectralModel
+        parameters:
+        -   name: index
+            value: 2.4223413467407227
+            frozen: true
+        -   name: amplitude
+            value: 1.0678637682045314e-14
+            unit: MeV-1 s-1 cm-2
+            error: 1.5352462994459594e-14
+            min: 0.0
+        -   name: reference
+            value: 3827.934814453125
+            unit: MeV
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 259.8960876464844
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -38.97850036621094
+            unit: deg
+            frozen: true
+-   name: 4FGL J1721.7-3917
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 5.509446286755819e-18
+            unit: MeV-1 s-1 cm-2
+            error: 3.564770167142948e-15
+            min: 0.0
+        -   name: reference
+            value: 2143.265380859375
+            unit: MeV
+        -   name: alpha
+            value: 2.512634038925171
+            frozen: true
+        -   name: beta
+            value: 0.24449878931045532
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 260.43170166015625
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -39.29750061035156
+            unit: deg
+            frozen: true
+-   name: 4FGL J1722.1-4007
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 2.784875814467532e-19
+            unit: MeV-1 s-1 cm-2
+            error: 2.91003705567369e-16
+            min: 0.0
+        -   name: reference
+            value: 2236.507568359375
+            unit: MeV
+        -   name: alpha
+            value: 2.474788188934326
+            frozen: true
+        -   name: beta
+            value: 0.22961631417274475
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 260.5278015136719
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -40.12269973754883
+            unit: deg
+            frozen: true
+-   name: 4FGL J1726.7-3930
+    type: SkyModel
+    spectral:
+        type: LogParabolaSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 3.003484546051916e-18
+            unit: MeV-1 s-1 cm-2
+            error: 2.7869307674563685e-15
+            min: 0.0
+        -   name: reference
+            value: 1562.7984619140625
+            unit: MeV
+        -   name: alpha
+            value: 2.6638023853302
+            frozen: true
+        -   name: beta
+            value: 0.3165585696697235
+            frozen: true
+    spatial:
+        type: PointSpatialModel
+        frame: icrs
+        parameters:
+        -   name: lon_0
+            value: 261.6973876953125
+            unit: deg
+            frozen: true
+        -   name: lat_0
+            value: -39.50529861450195
+            unit: deg
+            frozen: true
+-   name: IEM_varmin_rescaled
+    type: SkyModel
+    spectral:
+        type: PowerLawNormSpectralModel
+        parameters:
+        -   name: tilt
+            value: 0.0
+        -   name: norm
+            value: 1.2679150941060937
+            error: 0.03910429695120591
+            min: 0.0
+        -   name: reference
+            value: 1.0
+            unit: TeV
+    spatial:
+        type: TemplateSpatialModel
+        frame: galactic
+        parameters:
+        -   name: lon_0
+            value: 347.3
+            unit: deg
+        -   name: lat_0
+            value: -0.5
+            unit: deg
+        filename: IEM_varmin_rescaled_rxj.fits.gz
+        normalize: false
+        unit: 1 / (MeV s sr cm2)
+-   name: isotropic_P8R3_CLEAN_V3_PSF0_v1
+    type: SkyModel
+    apply_irf:
+        psf: false
+        exposure: true
+        edisp: false
+    datasets_names:
+    - P8R3_CLEAN_V3_PSF0_v1
+    spectral:
+        type: CompoundSpectralModel
+        model1:
+            type: TemplateSpectralModel
+            parameters: []
+            energy:
+                data:
+                - 33.6803
+                - 42.4506
+                - 53.5047
+                - 67.4374
+                - 84.9981
+                - 107.132
+                - 135.029
+                - 170.19
+                - 214.508
+                - 270.365
+                - 340.769
+                - 429.505
+                - 541.348
+                - 682.315
+                - 859.99
+                - 1083.93
+                - 1366.19
+                - 1721.94
+                - 2170.34
+                - 2735.49
+                - 3447.81
+                - 4345.62
+                - 5477.23
+                - 6903.5
+                - 8701.17
+                - 10967.0
+                - 13822.7
+                - 17422.2
+                - 21958.9
+                - 27677.0
+                - 34884.1
+                - 43968.0
+                - 55417.2
+                - 69847.9
+                - 88036.3
+                - 110961.0
+                - 139855.0
+                - 176273.0
+                - 222175.0
+                - 280029.0
+                - 352949.0
+                - 444857.0
+                - 560698.0
+                - 706704.0
+                - 890729.0
+                - 1000000.0
+                - 2000000.0
+                - 3000000.0
+                unit: MeV
+            values:
+                data:
+                - 3.33947e-06
+                - 1.54752e-06
+                - 7.12211e-07
+                - 3.44464e-07
+                - 1.61192e-07
+                - 1.11657e-07
+                - 7.87464e-08
+                - 4.68984e-08
+                - 2.85922e-08
+                - 1.68453e-08
+                - 9.93564e-09
+                - 5.67352e-09
+                - 3.24371e-09
+                - 1.82054e-09
+                - 1.04098e-09
+                - 6.10848e-10
+                - 3.47626e-10
+                - 1.92926e-10
+                - 1.12669e-10
+                - 6.66251e-11
+                - 3.98039e-11
+                - 2.35355e-11
+                - 1.49144e-11
+                - 9.45748e-12
+                - 5.46728e-12
+                - 3.21515e-12
+                - 1.86916e-12
+                - 1.09778e-12
+                - 6.10807e-13
+                - 3.41381e-13
+                - 1.93803e-13
+                - 1.11822e-13
+                - 6.58791e-14
+                - 3.30316e-14
+                - 1.70555e-14
+                - 8.85736e-15
+                - 4.62146e-15
+                - 2.41059e-15
+                - 1.25226e-15
+                - 6.497e-16
+                - 3.37163e-16
+                - 1.74963e-16
+                - 9.07937e-17
+                - 4.71156e-17
+                - 2.44497e-17
+                - 1.7612736725327252e-17
+                - 2.4691864943657e-18
+                - 7.82386258259826e-19
+                unit: 1 / (MeV s cm2)
+        model2:
+            type: PowerLawNormSpectralModel
+            parameters:
+            -   name: tilt
+                value: 0.0
+            -   name: norm
+                value: 27.815467790552592
+                error: 2.498954928514624
+                min: 0.0
+            -   name: reference
+                value: 1.0
+                unit: TeV
+        operator: mul
+    spatial:
+        type: ConstantSpatialModel
+        parameters: []
+-   name: isotropic_P8R3_CLEAN_V3_PSF1_v1
+    type: SkyModel
+    apply_irf:
+        psf: false
+        exposure: true
+        edisp: false
+    datasets_names:
+    - P8R3_CLEAN_V3_PSF1_v1
+    spectral:
+        type: CompoundSpectralModel
+        model1:
+            type: TemplateSpectralModel
+            parameters: []
+            energy:
+                data:
+                - 33.6803
+                - 42.4506
+                - 53.5047
+                - 67.4374
+                - 84.9981
+                - 107.132
+                - 135.029
+                - 170.19
+                - 214.508
+                - 270.365
+                - 340.769
+                - 429.505
+                - 541.348
+                - 682.315
+                - 859.99
+                - 1083.93
+                - 1366.19
+                - 1721.94
+                - 2170.34
+                - 2735.49
+                - 3447.81
+                - 4345.62
+                - 5477.23
+                - 6903.5
+                - 8701.17
+                - 10967.0
+                - 13822.7
+                - 17422.2
+                - 21958.9
+                - 27677.0
+                - 34884.1
+                - 43968.0
+                - 55417.2
+                - 69847.9
+                - 88036.3
+                - 110961.0
+                - 139855.0
+                - 176273.0
+                - 222175.0
+                - 280029.0
+                - 352949.0
+                - 444857.0
+                - 560698.0
+                - 706704.0
+                - 890729.0
+                - 1000000.0
+                - 2000000.0
+                - 3000000.0
+                unit: MeV
+            values:
+                data:
+                - 2.56326e-06
+                - 1.20384e-06
+                - 5.61672e-07
+                - 2.74758e-07
+                - 1.3049e-07
+                - 8.89718e-08
+                - 6.11767e-08
+                - 3.78156e-08
+                - 2.37422e-08
+                - 1.43578e-08
+                - 8.68376e-09
+                - 5.04267e-09
+                - 2.92096e-09
+                - 1.63676e-09
+                - 9.34513e-10
+                - 5.4836e-10
+                - 3.02605e-10
+                - 1.57836e-10
+                - 9.25657e-11
+                - 5.63653e-11
+                - 3.32759e-11
+                - 1.95687e-11
+                - 1.18891e-11
+                - 7.20065e-12
+                - 4.30245e-12
+                - 2.57485e-12
+                - 1.51652e-12
+                - 8.99201e-13
+                - 5.19944e-13
+                - 3.02573e-13
+                - 1.72338e-13
+                - 9.55093e-14
+                - 5.38871e-14
+                - 2.78653e-14
+                - 1.46572e-14
+                - 7.66898e-15
+                - 4.00128e-15
+                - 2.12641e-15
+                - 9.97542e-16
+                - 4.51673e-16
+                - 2.05998e-16
+                - 9.38113e-17
+                - 4.27347e-17
+                - 1.94661e-17
+                - 8.86712e-18
+                - 5.9845719191965356e-18
+                - 5.678359863046468e-19
+                - 1.4319152442617869e-19
+                unit: 1 / (MeV s cm2)
+        model2:
+            type: PowerLawNormSpectralModel
+            parameters:
+            -   name: tilt
+                value: 0.0
+            -   name: norm
+                value: 31.825660389120955
+                error: 2.886533882407809
+                min: 0.0
+            -   name: reference
+                value: 1.0
+                unit: TeV
+        operator: mul
+    spatial:
+        type: ConstantSpatialModel
+        parameters: []
+-   name: isotropic_P8R3_CLEAN_V3_PSF2_v1
+    type: SkyModel
+    apply_irf:
+        psf: false
+        exposure: true
+        edisp: false
+    datasets_names:
+    - P8R3_CLEAN_V3_PSF2_v1
+    spectral:
+        type: CompoundSpectralModel
+        model1:
+            type: TemplateSpectralModel
+            parameters: []
+            energy:
+                data:
+                - 33.6803
+                - 42.4506
+                - 53.5047
+                - 67.4374
+                - 84.9981
+                - 107.132
+                - 135.029
+                - 170.19
+                - 214.508
+                - 270.365
+                - 340.769
+                - 429.505
+                - 541.348
+                - 682.315
+                - 859.99
+                - 1083.93
+                - 1366.19
+                - 1721.94
+                - 2170.34
+                - 2735.49
+                - 3447.81
+                - 4345.62
+                - 5477.23
+                - 6903.5
+                - 8701.17
+                - 10967.0
+                - 13822.7
+                - 17422.2
+                - 21958.9
+                - 27677.0
+                - 34884.1
+                - 43968.0
+                - 55417.2
+                - 69847.9
+                - 88036.3
+                - 110961.0
+                - 139855.0
+                - 176273.0
+                - 222175.0
+                - 280029.0
+                - 352949.0
+                - 444857.0
+                - 560698.0
+                - 706704.0
+                - 890729.0
+                - 1000000.0
+                - 2000000.0
+                - 3000000.0
+                unit: MeV
+            values:
+                data:
+                - 2.15677e-06
+                - 1.0135e-06
+                - 4.71455e-07
+                - 2.35847e-07
+                - 1.15989e-07
+                - 8.31056e-08
+                - 6.10217e-08
+                - 3.68025e-08
+                - 2.27904e-08
+                - 1.37095e-08
+                - 8.2651e-09
+                - 4.89913e-09
+                - 2.87556e-09
+                - 1.62589e-09
+                - 9.2488e-10
+                - 5.2531e-10
+                - 2.96292e-10
+                - 1.6542e-10
+                - 9.52936e-11
+                - 5.50462e-11
+                - 3.30889e-11
+                - 1.98562e-11
+                - 1.2068e-11
+                - 7.35696e-12
+                - 4.29351e-12
+                - 2.52556e-12
+                - 1.47493e-12
+                - 8.64245e-13
+                - 4.99624e-13
+                - 2.90476e-13
+                - 1.64485e-13
+                - 9.00506e-14
+                - 5.02812e-14
+                - 2.56173e-14
+                - 1.33733e-14
+                - 6.64122e-15
+                - 3.24436e-15
+                - 1.62272e-15
+                - 7.01501e-16
+                - 2.91263e-16
+                - 1.2196e-16
+                - 5.09769e-17
+                - 2.13154e-17
+                - 8.91211e-18
+                - 3.72626e-18
+                - 2.409450487333704e-18
+                - 1.7687144004997492e-19
+                - 3.8384684334574825e-20
+                unit: 1 / (MeV s cm2)
+        model2:
+            type: PowerLawNormSpectralModel
+            parameters:
+            -   name: tilt
+                value: 0.0
+            -   name: norm
+                value: 26.915413842067355
+                error: 2.896520866395878
+                min: 0.0
+            -   name: reference
+                value: 1.0
+                unit: TeV
+        operator: mul
+    spatial:
+        type: ConstantSpatialModel
+        parameters: []
+-   name: isotropic_P8R3_CLEAN_V3_PSF3_v1
+    type: SkyModel
+    apply_irf:
+        psf: false
+        exposure: true
+        edisp: false
+    datasets_names:
+    - P8R3_CLEAN_V3_PSF3_v1
+    spectral:
+        type: CompoundSpectralModel
+        model1:
+            type: TemplateSpectralModel
+            parameters: []
+            energy:
+                data:
+                - 33.6803
+                - 42.4506
+                - 53.5047
+                - 67.4374
+                - 84.9981
+                - 107.132
+                - 135.029
+                - 170.19
+                - 214.508
+                - 270.365
+                - 340.769
+                - 429.505
+                - 541.348
+                - 682.315
+                - 859.99
+                - 1083.93
+                - 1366.19
+                - 1721.94
+                - 2170.34
+                - 2735.49
+                - 3447.81
+                - 4345.62
+                - 5477.23
+                - 6903.5
+                - 8701.17
+                - 10967.0
+                - 13822.7
+                - 17422.2
+                - 21958.9
+                - 27677.0
+                - 34884.1
+                - 43968.0
+                - 55417.2
+                - 69847.9
+                - 88036.3
+                - 110961.0
+                - 139855.0
+                - 176273.0
+                - 222175.0
+                - 280029.0
+                - 352949.0
+                - 444857.0
+                - 560698.0
+                - 706704.0
+                - 890729.0
+                - 1000000.0
+                - 2000000.0
+                - 3000000.0
+                unit: MeV
+            values:
+                data:
+                - 1.39997e-06
+                - 7.01495e-07
+                - 3.46565e-07
+                - 1.89023e-07
+                - 1.06036e-07
+                - 7.26437e-08
+                - 5.06076e-08
+                - 3.12229e-08
+                - 1.96043e-08
+                - 1.18699e-08
+                - 7.2424e-09
+                - 4.46993e-09
+                - 2.69232e-09
+                - 1.521e-09
+                - 8.73189e-10
+                - 5.06978e-10
+                - 2.81659e-10
+                - 1.49137e-10
+                - 8.91268e-11
+                - 5.58262e-11
+                - 3.24588e-11
+                - 1.87459e-11
+                - 1.14044e-11
+                - 6.88788e-12
+                - 4.1537e-12
+                - 2.49965e-12
+                - 1.45115e-12
+                - 8.51077e-13
+                - 4.87358e-13
+                - 2.80238e-13
+                - 1.59975e-13
+                - 9.01856e-14
+                - 5.22341e-14
+                - 2.55717e-14
+                - 1.28525e-14
+                - 6.70832e-15
+                - 3.53999e-15
+                - 1.90714e-15
+                - 8.76368e-16
+                - 3.8487e-16
+                - 1.70607e-16
+                - 7.54815e-17
+                - 3.34086e-17
+                - 1.47856e-17
+                - 6.54377e-18
+                - 4.353326110573831e-18
+                - 3.7890371415980283e-19
+                - 9.084428354626931e-20
+                unit: 1 / (MeV s cm2)
+        model2:
+            type: PowerLawNormSpectralModel
+            parameters:
+            -   name: tilt
+                value: 0.0
+            -   name: norm
+                value: 32.35385252702336
+                error: 3.0532811906575126
+                min: 0.0
+            -   name: reference
+                value: 1.0
+                unit: TeV
+        operator: mul
+    spatial:
+        type: ConstantSpatialModel
+        parameters: []
+covariance: candidate_models_main_covariance.dat
+metadata:
+    creator: Gammapy 2.0
+    date: '2025-11-02T21:34:07.917464'
+    origin: null

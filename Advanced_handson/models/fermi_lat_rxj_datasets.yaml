@@ -1,0 +1,18 @@
+datasets:
+-   name: P8R3_CLEAN_V3_PSF0_v1
+    type: MapDataset
+    filename: P8R3_CLEAN_V3_PSF0_v1.fits
+-   name: P8R3_CLEAN_V3_PSF1_v1
+    type: MapDataset
+    filename: P8R3_CLEAN_V3_PSF1_v1.fits
+-   name: P8R3_CLEAN_V3_PSF2_v1
+    type: MapDataset
+    filename: P8R3_CLEAN_V3_PSF2_v1.fits
+-   name: P8R3_CLEAN_V3_PSF3_v1
+    type: MapDataset
+    filename: P8R3_CLEAN_V3_PSF3_v1.fits
+metadata:
+    creator: Gammapy 2.0
+    date: '2025-11-02T09:38:24.094587'
+    origin: null
+checksum: c70e0a57de2d901c465da1f53f5f9b1d

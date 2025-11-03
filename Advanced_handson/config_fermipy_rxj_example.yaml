@@ -1,0 +1,59 @@
+components:
+  - model: {isodiff:$FERMI_DIR/refdata/fermi/galdiffuse/iso_P8R3_CLEAN_V3_PSF0_v1.txt}
+    selection: {evtype: 4}
+    data: {ltcube: null}
+  - model: {isodiff:$FERMI_DIR/refdata/fermi/galdiffuse/iso_P8R3_CLEAN_V3_PSF1_v1.txt}
+    selection: {evtype: 8}
+    data: {ltcube: null}
+  - model: {isodiff:$FERMI_DIR/refdata/fermi/galdiffuse/iso_P8R3_CLEAN_V3_PSF2_v1.txt}
+    selection: {evtype: 16}
+    data: {ltcube: null}
+  - model: {isodiff:$FERMI_DIR/refdata/fermi/galdiffuse/iso_P8R3_CLEAN_V3_PSF3_v1.txt}
+    selection: {evtype: 32}
+    data: {ltcube: null}
+
+data:
+  evfile : ./raw/events_list.lst
+  scfile : ./raw/L251030051804FA26FE6A84_SC00.fits
+
+binning:
+  roiwidth   : 8.0
+  binsz      : 0.02
+  binsperdec   : 10
+  coordsys : GAL
+  proj: CAR
+  projtype: WCS
+
+selection :
+#gtselect parameters
+  emin : 3981.0717055349733
+  emax : 2511886.4315095823
+  zmax    : 105 # deg
+  evclass : 256
+  evtype  : 8 #8 is PSF1, 16 PSF2, 32 PSF3
+  tmin    : 239557417
+  tmax    : 783244462
+
+#gtmktime parameters
+  filter : 'DATA_QUAL>0 && LAT_CONFIG==1'
+  roicut : 'no'
+
+#Set the ROI center to the coordinates of this source
+  glon : 347.3
+  glat : -0.5
+
+fileio:
+   outdir : './reduced/' # PSF1, PSF2, PSF1
+   logfile : 'out.log' # PSF1, PSF2, PSF1
+   usescratch : False
+   scratchdir  : '/scratch'
+
+gtlike:
+  edisp : True
+  edisp_bins : 0 #-1
+  irfs : 'P8R3_CLEAN_V3' # PSF1, PSF2, PSF1
+  edisp_disable : ['isodiff'] #, 'SunMoonIC', 'SunDiskMoon'] #  #Provide a list of sources for which the edisp correction should be disabled ?? ----> If sun and moon is not in the line of sight of the 
+
+model:
+  src_roiwidth : 10.0
+ 
