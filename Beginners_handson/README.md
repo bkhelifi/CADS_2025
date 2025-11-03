@@ -21,7 +21,7 @@ The used Gammapy version will be the **v2.0**. See the installation page
 
 Prepared by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-[Link to the presentation](<1. Introduction to Gammapy/>).
+[Link to the presentation](./Gammapy_CADS2025.pdf).
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
