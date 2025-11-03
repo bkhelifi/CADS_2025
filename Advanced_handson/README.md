@@ -8,11 +8,12 @@ The used Gammapy version will be the **v2.0**. See the installation page
 ## Table of contents
 1. [Gammapy in depth](#intro)
 2. [IRFs and Data reduction](#data)
-3. [Creation of a mini catalog](#catalog)
-4. [Multi-instrument joint analysis](#mia)
-5. [Timing analysis](#time)
-6. [Complex 3D source analysis](#tdana)
-7. [Systematic uncertainties](#syst)
+3. [Joint analysis - Source detection and model selection](#detection)
+4. [Timing analysis](#time)
+5. [Diffuse emisison and source population models](#diffuse)
+6. [Joint analysis - Custom models and multi-instrument systematics](#mia)
+7. [Nested sampling](#nested)
+8. [Machine-learning representation of physical models](#ml)
 
 <a name="intro"></a>
 ## Session of Wednesday, 9h30/10h45
@@ -27,60 +28,67 @@ Made by Quentin Remy (MPIK, Heidelberg) and Régis Terrier (APC, Paris). Locatio
 
 <a name="data"></a>
 ## Session of Wednesday, 11h15/12h30
-**IRFs and Data reduction** : observation handling, (non-symmetric) IRFs, safe mask, exclusion masks, background fitting
+**IRFs and Data reduction** : observation handling, IRFs, safe mask, exclusion masks, background fitting, diffuse emission
 
 Made by Quentin Remy (MPIK, Heidelberg) and Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-[Link to the notebook](2_irfs_properties_dataset_creation.ipynb).
+IACTs data reduction (H.E.S.S. example)
+[Link to the notebook](2a_hess_data_reduction.ipynb).
+
+Fermi-LAT dataset creation and analysis setup
+[Link to the notebook](2b_fermi_lat_dataset_creation).
+
 
 <a name="catalog"></a>
 ## Session of Wednesday, 14h00/15h45
-**Creation of a mini catalog**
+**Joint analysis - Source detection and model selection**
 
 Made by Quentin Remy (MPIK, Heidelberg) and Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-[Link to open problems](Open_problems.md).
+Multi-instrument TS maps, source detection using pattern recognition techniques
+[Link to open problems](3a_joint_analysis_source_detection.ipynb).
+
+Alternative hypotheses testing, model selection
+[Link to open problems](3b_joint_analysis_model_selection.ipynb).
+
 
 <a name="mia"></a>
 ## Session of Wednesday, 16h15/18h
-**Multi-instrument joint analysis** : joint crab analysis, limitations to combine different instruments, performance tricks, multi-processing 
-Made by Quentin Remy (MPIK, Heidelberg) and Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudon
-
-[Link to the notebook](3_make_joint_crab_datasets.ipynb).
-
-[Link to the exercise](4_EXERCISE_joint_crab_analysis.ipynb).
-
-
-<a name="time"></a>
-## Session of Thursday, 9h30/10h45 (common for the begginder group)
-**Timing analysis** : creating a light curve for a time variable source
-
-Made by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de Meudon
-
-[Link to the notebooks](../Beginners_handson/5.%20Timing%20analysis).
-
-## Session of Thursday, 11h15/12h30
 **Timing analysis** : handling light curves
 
 Made by Quentin Remy (MPIK, Heidelberg) and Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-[Link to open problems](Open_problems.md).
+Link to the notebook
 
-Link to the solution
+<a name="diffuse"></a>
+## Session of Thursday, 9h30/10h45
+**Diffuse emisison and source population models**
 
-<a name="tdana"></a>
+Made by Quentin Remy (MPIK, Heidelberg) and Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudon
+
+Link to the notebooks.
+
+<a name="mia"></a>
+## Session of Thursday, 11h15/12h30
+**Joint analysis - Custom models and multi-instrument systematics**: joint crab analysis, limitations to combine different instruments,
+systematics, Priors
+
+Made by Quentin Remy (MPIK, Heidelberg) and Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudon
+
+Link to the notebooks.
+
+<a name="nested"></a>
 ## Session of Thursday, 14h00/15h45
-**Complex 3D source analysis** : complex models (diffuse template, naima, priors, etc), systematics,
-exploring fit results in depth, multi-processing, extracting flux points for one source model
+**Nested sampling** : joint crab analysis, nested sampling
 
 Made by Quentin Remy (MPIK, Heidelberg) and Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-[Link to the exercise](5_EXERCISE_complex_region_3d_analysis_galactic_center.ipynb).
+Link to the notebooks.
 
-<a name="syst"></a>
+<a name="ml"></a>
 ## Session of Thursday, 16h15/18h
-**Systematic uncertainties** :
+**Machine-learning representation of physical models** : Custom models, ML surrogate model training
 
 Made by Quentin Remy (MPIK, Heidelberg) and Régis Terrier (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-Link to the notebook.
+[Link to open problems](8_ML_NaimaSurrogate.ipynb).
