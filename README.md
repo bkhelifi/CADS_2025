@@ -28,30 +28,30 @@ The indico page is https://indico.obspm.fr/event/2672/.
 
 <a name="stats"></a>
 ## 2. From detection to high-level reconstruction - A statistical view on gamma-ray sources
-By J. Biteau - Salle du Conseil, Observatoire de Paris, 77 Av. Denfert Rochereau
+By J. Biteau - Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 - [slides](Lectures/CADS_Statistics_2025.pdf)
 - [material page](Lectures/NPAC_Statistics_25_26.pdf)
 
 <a name="extragal"></a>
 ## 3. ExtraGalactic sources
-By M. Cerutti - Salle du Conseil, Observatoire de Paris, 77 Av. Denfert Rochereau
+By M. Cerutti - Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 Slides
 
 
 <a name="reco"></a>
 ## 4. Detection and reconstruction of extensive air showers
-By F. Bradascio - Salle du Conseil, Observatoire de Paris, 77 Av. Denfert Rochereau
+By F. Bradascio - Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 Slides
 
 
 <a name="rad"></a>
 ## 5. Introduction to the radiative processes and associated detectors
-By S. Gabici (APC) - Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau
+By S. Gabici (APC) - Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 Slides
 
 <a name="gal"></a>
 ## 6. Galactic sources
-By S. Gabici (APC) - Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau
+By S. Gabici (APC) - Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 Slides
 
 <a name="hands-on"></a>
