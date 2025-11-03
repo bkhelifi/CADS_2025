@@ -6,11 +6,11 @@ Cherenkov Astronomy Data School, Paris, 2025
 ## Table of contents
 
 1. [Overview](#scope)
-2. [Introduction to the radiative processes and associated detectors](#rad)
-3. [Galactic sources](#gal)
-4. [Extragalactic sources](#extragal)
-5. [Detection and reconstruction of extensive air showers](#reco)
-6. [From detection to high-level reconstruction - A statistical view on gamma-ray sources](#stats)
+2. [From detection to high-level reconstruction - A statistical view on gamma-ray sources](#stats)
+3. [Extragalactic sources](#extragal)
+4. [Detection and reconstruction of extensive air showers](#reco)
+5. [Introduction to the radiative processes and associated detectors](#rad)
+6. [Galactic sources](#gal)
 7. [Gammapy hands-on sessions](#hands-on)
 8. [User session](#user)
 9. [Legal notice](#notice)
@@ -64,7 +64,7 @@ The hands-on session will be organised for two different groups:
  
 <a name="user"></a>
 ## 8. User session
-To Be Confirmed
+This session is dedicated to free discussions, frequently asked questions, or specific projects. Topics will be collected the Thursday
 
 <a name="notice"></a>
 ## 9. Legal notice
