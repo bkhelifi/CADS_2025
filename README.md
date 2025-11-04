@@ -49,7 +49,7 @@ Slides
 By F. Bradascio (CEA Paris-Saclay)
 Location: Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
-Slides
+[Slides](Lectures/gamma_detectors_cads_school_2025.pdf)
 
 
 <a name="rad"></a>
