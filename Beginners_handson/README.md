@@ -29,7 +29,7 @@ Prepared by Bruno Khélifi (APC, Paris). Location : room CIAS, Observatoire de M
 
 Prepared by Tomas Bylund (LUX/APC/OBSPM, Paris) and Maxime Regeard (APC, Paris). Location : room CIAS, Observatoire de Meudon
 
-[Notebooks](<2. General API/>).
+[Notebooks](<https://github.com/bkhelifi/CADS_2025/blob/main/Beginners_handson/2. General/>).
 
 <a name="tdana"></a>
 ## Session of Wednesday, 14h00/15h45
