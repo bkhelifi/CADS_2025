@@ -3,6 +3,7 @@
 
 # datasets
 CTA-SDC-school/
+gammapy-datasets/
 
 # notebooks
 *.ipynb_checkpoints
