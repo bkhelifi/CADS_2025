@@ -1,0 +1,9 @@
+# editors settings
+.vscode
+
+# datasets
+CTA-SDC-school/
+
+# notebooks
+*.ipynb_checkpoints
+*checkpoints.ipynb
