@@ -80,6 +80,8 @@ The hands-on session will be organised for two different groups:
 ## 8. User session
 This session is dedicated to free discussions, frequently asked questions, or specific projects. Topics will be collected the Thursday
 
+Put your questions in this pad: https://hebdo.framapad.org/p/CADS_2025_Questions
+
 <a name="notice"></a>
 ## 9. Legal notice
 All contributors of these pages has agreed with the term of the [BSD-3-Clause license](./LICENSE) of this repository.
