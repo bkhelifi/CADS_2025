@@ -58,7 +58,7 @@ By S. Gabici (APC, Paris-Cite University)
 
 Location:  Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
-Slides
+[Slides](Lectures/RadiativeProcess_Gabici_2025.pdf)
 
 <a name="gal"></a>
 ## 6. Galactic sources
@@ -66,7 +66,7 @@ By S. Gabici (APC, Paris-Cite University)
 
 Location:  Salle Denisse, Observatoire de Paris, 77 Av. Denfert Rochereau, Paris
 
-Slides
+[Slides](Lectures/Galactic_Gabici_2025.pdf)
 
 <a name="hands-on"></a>
 ## 7. Gammapy hands-on sessions
